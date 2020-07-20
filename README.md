@@ -1,2 +1,2 @@
-# Esparta-internship
-This repository is dedicated to Esparta's internship test solutions.
+# Esparta internship
+Repositório dedicado às soluções dos testes oferecidos pela Esparta.io para a oportunidade de estágio.
